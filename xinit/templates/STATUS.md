@@ -7,7 +7,7 @@ Current effort: {{what is being built}}. Last updated: {{YYYY-MM-DD}}
 | 1 | {{scope}} | Not started / In progress / Done |
 
 ## Known issues
-- None recorded.
+See `docs/ISSUES.md`.
 
 ## Next
 - {{Next concrete step}}

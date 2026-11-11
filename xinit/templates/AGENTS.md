@@ -19,3 +19,4 @@
 - `docs/CODE.md`: code standard, structure, validation
 - `docs/DESIGN.md`: UI design standard
 - `docs/STATUS.md`: development progress
+- `docs/ISSUES.md`: issue tracker (open and done issues)
