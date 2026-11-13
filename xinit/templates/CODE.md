@@ -19,7 +19,8 @@
 
 ## Validation
 - Build: {{command}}
-- Lint/test: {{commands and folder}}
+- Lint: {{command}}
+- Tests: see `docs/TESTS.md`
 
 ## Security
 - Never commit secrets, tokens or connection strings. {{Where local config lives.}}

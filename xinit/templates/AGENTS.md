@@ -11,12 +11,13 @@
 # Workflow
 1. Read the docs below that apply, then the code next to the change.
 2. Make the smallest change that satisfies the request.
-3. Validate with the commands in `docs/CODE.md`.
+3. Validate with the commands in `docs/CODE.md` and the rules in `docs/TESTS.md`.
 4. Update `docs/STATUS.md` when a tracked area changes state.
 5. Do not commit unless asked. Never commit secrets.
 
 # References
 - `docs/CODE.md`: code standard, structure, validation
+- `docs/TESTS.md`: testing standard, levels, commands
 - `docs/DESIGN.md`: UI design standard
 - `docs/STATUS.md`: development progress
 - `docs/ISSUES.md`: issue tracker (open and done issues)

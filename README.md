@@ -4,7 +4,7 @@ Personal Claude Code skills. Each skill is a folder with a `SKILL.md`; run it wi
 
 | Skill | Purpose |
 |---|---|
-| `xinit` | Create or refresh project agent docs (`AGENTS.md`, `docs/CODE.md`, `docs/DESIGN.md`, `docs/STATUS.md`) from templates |
+| `xinit` | Create or refresh project agent docs (`AGENTS.md`, `docs/CODE.md`, `docs/TESTS.md`, `docs/DESIGN.md`, `docs/STATUS.md`) from templates |
 | `xplan` | Interview the user, then draft a plan for a feature or bugfix |
 | `xstart` | Implement a plan from `xplan`, recording progress in the plan and `docs/STATUS.md` |
 | `xtestweb` | Test a web feature in a real browser against a throwaway mock backend |
